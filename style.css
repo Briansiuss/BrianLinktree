@@ -54,7 +54,7 @@ section main a {
   text-decoration: none;
   border-radius: 5px;
   gap: 20px;
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 section main a:hover {
